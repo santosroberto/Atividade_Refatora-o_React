@@ -2,9 +2,7 @@
 
 import { Card, NomeProduto, Preco, Botao } from "./CardProduto.styles";
 
-export function CardProduto() {
-
-    
+export default function CardProduto() {
   // Simulação de estado do produto
   const produtoAdicionado = true;
 

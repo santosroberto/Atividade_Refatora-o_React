@@ -32,7 +32,6 @@ export const Preco = styled.p`
   margin-bottom: 16px;
 `;
 
-
 /**
  * Botão "Adicionar ao carrinho"
  * Estilo dinâmico baseado na prop "adicionada"

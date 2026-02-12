@@ -1,4 +1,3 @@
-import { jsxDev } from "react/jsx-runtime";
 import CardProduto from "./components/CardProduto";
 
 function App() {
